@@ -2,7 +2,7 @@
 
 ![Meteor Logo](docs/branding/logoG1.svg)
 
-Meteor G1 is Meteorite's first generation of high performance RISC-V64 processors. It features the Meteo-RVef and Meteo-RVpf core microarchitectures.
+Meteor G1 is Meteorite's first generation of high performance RISC-V 64bit processors. It features the Meteo-RVef and Meteo-RVpf core microarchitectures.
 
 # Architecture
 
