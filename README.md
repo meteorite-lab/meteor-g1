@@ -12,4 +12,4 @@ Meteor G1 is Meteorite's first generation of high performance RISC-V64 processor
 
 The microarchitecture of Meteo-RVef cores is the one shown below:
 
-<img src="docs/graph/meteo-rvef-uarch.svg" alt="Meteo-RVef Block Diagram" width="400"/>
+![Meteo-RVef Block Diagram](docs/graph/meteo-rvef-uarch.svg)
