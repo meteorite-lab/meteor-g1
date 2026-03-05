@@ -1,2 +1,2 @@
-# meteor-g1
-An open-source high performance RV64 CPU
+# Meteor G1
+Meteor G1 is Meteorite's first generation of high performance RV64 processors.
